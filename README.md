@@ -24,6 +24,8 @@
  
 <div> 
   <a href = "mailto:afas@academico.ufpb.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+
+  ### Intern FullStack Developer and Support and Enterprise in
   <a href = "https://github.com/epcdevelop"><img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=black" target="_blank"></a>
   
   ![Snake animation](https://github.com/antoniofernandodearujo/antoniofernandodearujo/blob/output/github-contribution-grid-snake.svg)
