@@ -35,7 +35,7 @@
   ![Snake animation](https://github.com/antoniofernandodearujo/antoniofernandodearujo/blob/output/github-contribution-grid-snake.svg)
 
 
-<h1> My Portfólio - WEB </h1>
+<h2> My Portfólio - WEB </h2>
 
   
  
