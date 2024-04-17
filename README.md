@@ -1,6 +1,11 @@
 ## Hello 👋! My name is Antonio Fernando...
 
 
+<h2> My Portfólio - WEB </h2>
+
+Access my site: https://myportfolio-antoniofernando.netlify.app/
+
+
 <div align="center">
   <a href="https://github.com/antoniofernandodearujo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniofernandodearujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -35,9 +40,6 @@
   ![Snake animation](https://github.com/antoniofernandodearujo/antoniofernandodearujo/blob/output/github-contribution-grid-snake.svg)
 
 
-<h2> My Portfólio - WEB </h2>
-
-Access the site: https://antoniofernando.netlify.app
 
   
  
