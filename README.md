@@ -3,7 +3,7 @@
 
 <h2> My Portfolio - WEB </h2>
 
-Access my portfolio: https://myportfolio-antoniofernando.netlify.app/
+<h3>Access my portfolio: https://myportfolio-antoniofernando.netlify.app/ 🧑🏾‍💻​ </h3>
 
 
 <div align="center">
