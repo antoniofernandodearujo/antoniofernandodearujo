@@ -1,9 +1,9 @@
 ## Hello 👋! My name is Antonio Fernando...
 
 
-<h2> My Portfólio - WEB </h2>
+<h2> My Portfolio - WEB </h2>
 
-Access my site: https://myportfolio-antoniofernando.netlify.app/
+Access my portfolio: https://myportfolio-antoniofernando.netlify.app/
 
 
 <div align="center">
