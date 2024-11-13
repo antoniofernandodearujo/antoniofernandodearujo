@@ -11,7 +11,7 @@
 
 <strong>Technical Abilities:</strong>
 <p>
-  PHP | Laravel, HTML | CSS, ReactJS | NextJS, Tailwind CSS, Jest (Testing), React Native | Expo, Android Studio | Xcode, RESTful APIs, SQL: PostgreSQL, NoSQL: Firebase
+ Javascript | Golang | Typescript | ReactJS | NextJS, Tailwind CSS, Jest (Testing), React Native | Expo, Android Studio | Xcode, RESTful APIs, SQL: PostgreSQL, NoSQL: Firebase
 </p>
 
 <strong>Tools:</strong>
