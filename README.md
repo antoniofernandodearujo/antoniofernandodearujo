@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋...</h1> <p align="center"> Full Stack Developer | React | React Native | Node.js | Go </p>
+<h1 align="left">Hi there 👋...</h1> <p align="center"> FullStack Developer | React | React Native | Node.js | Go </p>
 
 ## 🚀🚀 Expertise
 
